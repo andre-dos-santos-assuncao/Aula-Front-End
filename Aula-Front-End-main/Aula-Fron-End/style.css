@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Ojuju:wght@200..800&family=Roboto+Flex:opsz,wght@8..144,100..1000&family=Tilt+Prism&display=swap');
+
+* {
+    font-family: 'Roboto Flex';
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #963535;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+}
